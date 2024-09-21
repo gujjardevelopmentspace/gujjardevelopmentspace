@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **web cloud native projects**
 
-- 👨‍💻 All of my projects are available one at [git](git)
+- 👨‍💻 All of my projects are available  at [git](git)
 
 - 📝 I regularly write articles on [web](web)
 
