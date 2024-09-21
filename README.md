@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **Front end development**
+- 🔭 I’m currently working on **MERN STACK development**
 
 - 🌱 I’m currently learning **open shift**
 
