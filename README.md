@@ -1,6 +1,7 @@
 ![logo](https://github.com/gujjardevelopmentspace/gujjardevelopmentspace/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm M.Yahya Ahsan</h1>
-<h3 align="center">A passionate frontend developer from UAE AND PAK</h3>
+<h3 align="center">A passionate MERN STACK DEVELOPER </h3>
+<h2 align="center">Onsite avalable in PAKISTAN and UAE <br> open to work remote in whole world </h2>  
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gujjardevelopmentspace&label=Profile%20views&color=0e75b6&style=flat" alt="gujjardevelopmentspace" /> </p>
