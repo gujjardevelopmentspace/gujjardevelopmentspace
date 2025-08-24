@@ -8,23 +8,26 @@
 
 
 
-- 🔭 I’m currently working on **MERN STACK development**
+- ## 🚀 About Me
 
-- 🌱 I’m currently learning **open shift**
+- 🔭 **Currently Working On:** Building scalable and interactive **MERN Stack applications** that solve real-world problems.  
 
-- 👯 I’m looking to collaborate on **web cloud native projects**
+- 🌱 **Learning:** Exploring **OpenShift** to master cloud-native deployment and container orchestration.  
 
-- 👨‍💻 All of my projects are available  at [git](git)
+- 👯 **Collaboration:** Open to collaborating on exciting **web and cloud-native projects** with like-minded developers.  
 
-- 📝 I regularly write articles on [web](web)
+- 👨‍💻 **Projects:** All my projects are available on [GitHub](https://github.com/gujjardevelopmentspace) showcasing full-stack solutions, UI/UX experiments, and dynamic web apps.  
 
-- 💬 Ask me about **Gujjardevelopmentspace**
+- 📝 **Writing:** I regularly share articles, tutorials, and insights on [web development](https://your-blog-link.com) to help the community grow.  
 
-- 📫 How to reach me **yahyagujjar2007@gmail.com**
+- 💬 **Ask Me About:** Anything related to **Gujjardevelopmentspace**, including MERN Stack, frontend design, or backend logic.  
 
-- 📄 Know about my experiences [on linkdin](on linkdin)
+- 📫 **Reach Me At:** [yahyagujjar2007@gmail.com](mailto:yahyagujjar2007@gmail.com) for project collaborations, queries, or networking.  
 
-- ⚡ Fun fact is to have a passenate **Coding skills**
+- 📄 **Experience & Resume:** Learn more about my professional journey on [LinkedIn](https://www.linkedin.com/in/muhammad-yahya-ahsan-576102328/).  
+
+- ⚡ **Fun Fact:** I have a deep passion for **coding**, constantly experimenting with new tech stacks and creative solutions.  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
