@@ -91,21 +91,22 @@ const yahya = {
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Coding Activity
+
+> 🕒 Powered by **WakaTime** — tracks every second I spend coding
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gujjardevelopmentspace&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gujjardevelopmentspace&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gujjardevelopmentspace&theme=radical&hide_border=true&layout=compact&langs_count=10&custom_title=⏱️%20Weekly%20Coding%20Breakdown" width="70%" />
 
-</div>
-
-<div align="center">
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gujjardevelopmentspace&layout=donut&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gujjardevelopmentspace&theme=redical&hide_border=true&area=true&custom_title=🔥%20Yahya's%20Contribution%20Graph" width="95%" />
+</div>
+
+<div align="center">
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gujjardevelopmentspace&layout=donut&theme=radical&hide_border=true&langs_count=8&custom_title=🧠%20Most%20Used%20Languages" />
 </div>
 
 ---
