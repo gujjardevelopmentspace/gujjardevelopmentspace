@@ -3,11 +3,26 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Yahya%20Ahsan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20MERN%20Developer%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0%20%7C%20UAE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20Remote%20Worldwide%20%F0%9F%8C%8D&descSize=16&descAlignY=55&descColor=fff" />
 </div>
 
-<!-- TYPING -->
+<!-- MARQUEE SKILL STRIP -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Yahya+—+I+build+things+for+the+web;💻+Full-Stack+Dev+who+actually+ships+products;🔥+React+%2B+Node.js+%2B+MongoDB+%3D+My+Playground;🌍+Based+in+Pakistan+%26+UAE+%7C+Remote+Anywhere;🎯+Clean+Code.+Great+UI.+Real+Results.;📩+Let's+work+together+—+I'm+available+now!" alt="Typing SVG" />
-  </a>
+  <img src="https://img.shields.io/badge/⚡ MERN Stack Developer — Available for Hire — Pakistan 🇵🇰 | UAE 🇦🇪 | Remote 🌍 — Let's Build Something Great!-FF6EC7?style=for-the-badge&labelColor=0d1117&color=FF6EC7" />
+</div>
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 </div>
 
 <br/>
